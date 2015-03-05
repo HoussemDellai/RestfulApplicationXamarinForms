@@ -1,0 +1,6 @@
+D:\RestfulApplication - Git\RestfulApplication.XamarinForms\RestfulApplication.XamarinForms\RestfulApplication.XamarinForms.WinPhone\obj\Debug\RestfulApplication.XamarinForms.WinPhone.csprojResolveAssemblyReference.cache
+D:\RestfulApplication - Git\RestfulApplication.XamarinForms\RestfulApplication.XamarinForms\RestfulApplication.XamarinForms.WinPhone\obj\Debug\App.g.cs
+D:\RestfulApplication - Git\RestfulApplication.XamarinForms\RestfulApplication.XamarinForms\RestfulApplication.XamarinForms.WinPhone\obj\Debug\MainPage.g.cs
+D:\RestfulApplication - Git\RestfulApplication.XamarinForms\RestfulApplication.XamarinForms\RestfulApplication.XamarinForms.WinPhone\obj\Debug\RestfulApplication.XamarinForms.WinPhone.g.resources
+D:\RestfulApplication - Git\RestfulApplication.XamarinForms\RestfulApplication.XamarinForms\RestfulApplication.XamarinForms.WinPhone\obj\Debug\RestfulApplication.XamarinForms.WinPhone.Resources.AppResources.resources
+D:\RestfulApplication - Git\RestfulApplication.XamarinForms\RestfulApplication.XamarinForms\RestfulApplication.XamarinForms.WinPhone\obj\Debug\RestfulApplication.XamarinForms.WinPhone.csproj.GenerateResource.Cache
