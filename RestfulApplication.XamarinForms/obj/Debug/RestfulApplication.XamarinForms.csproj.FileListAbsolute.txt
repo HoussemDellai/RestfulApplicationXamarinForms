@@ -1,5 +1,4 @@
 D:\RestfulApplication - Git\RestfulApplication.XamarinForms\RestfulApplication.XamarinForms\RestfulApplication.XamarinForms\obj\Debug\RestfulApplication.XamarinForms.csproj.App.config
-D:\RestfulApplication - Git\RestfulApplication.XamarinForms\RestfulApplication.XamarinForms\RestfulApplication.XamarinForms\obj\Debug\RestfulApplication.XamarinForms.csprojResolveAssemblyReference.cache
 D:\RestfulApplication - Git\RestfulApplication.XamarinForms\RestfulApplication.XamarinForms\RestfulApplication.XamarinForms\obj\Debug\MainPageView.xaml.g.cs
 D:\RestfulApplication - Git\RestfulApplication.XamarinForms\RestfulApplication.XamarinForms\RestfulApplication.XamarinForms\obj\Debug\DetailsPageView.xaml.g.cs
 D:\RestfulApplication - Git\RestfulApplication.XamarinForms\RestfulApplication.XamarinForms\RestfulApplication.XamarinForms\bin\Debug\RestfulApplication.XamarinForms.dll.config
@@ -28,3 +27,5 @@ D:\RestfulApplication - Git\RestfulApplication.XamarinForms\RestfulApplication.X
 D:\RestfulApplication - Git\RestfulApplication.XamarinForms\RestfulApplication.XamarinForms\RestfulApplication.XamarinForms\bin\Debug\Xamarin.Forms.Xaml.xml
 D:\RestfulApplication - Git\RestfulApplication.XamarinForms\RestfulApplication.XamarinForms\RestfulApplication.XamarinForms\obj\Debug\RestfulApplication.XamarinForms.dll
 D:\RestfulApplication - Git\RestfulApplication.XamarinForms\RestfulApplication.XamarinForms\RestfulApplication.XamarinForms\obj\Debug\RestfulApplication.XamarinForms.pdb
+D:\RestfulApplication - Git\RestfulApplication.XamarinForms\RestfulApplication.XamarinForms\RestfulApplication.XamarinForms\bin\Debug\RestfulApplication.XamarinForms.dll.CodeAnalysisLog.xml
+D:\RestfulApplication - Git\RestfulApplication.XamarinForms\RestfulApplication.XamarinForms\RestfulApplication.XamarinForms\bin\Debug\RestfulApplication.XamarinForms.dll.lastcodeanalysissucceeded
