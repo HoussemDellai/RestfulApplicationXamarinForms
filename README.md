@@ -9,3 +9,5 @@ This sample will show you how to leverage the strengthness of this technology to
 This application requires Visual Studio 2013.
 You can download it from http://www.visualstudio.com/downloads/download-visual-studio-vs.
 And Xamarin platform: http://xamarin.com/platform.
+
+<p><img id="134641" src="/site/view/file/134641/1/wp.PNG" alt="" width="359" height="649" style="display:block; margin-left:auto; margin-right:auto"></p>
